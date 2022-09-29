@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CameraAndGallery</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="gallery_old_method">Gallery Old Method</string>
+    <string name="gallery_new_method">Gallery New Method</string>
+    <string name="delete_images">Delete Images</string>
+    <string name="screen">Screen</string>
+</resources>
